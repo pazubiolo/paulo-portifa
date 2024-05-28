@@ -499,491 +499,174 @@ a{
     
 }
 
-/* style for internal pages */
+/* style for internal pages - portifolio */
 
-.worK_description_adjust{
-    padding-top: 1px;
-}
-
-.work_description01{
-    background-image: url(/images/bg-img-farm.png);
-    background-position-x: 90%;
-    background-position-y: center;
-    background-size: 80%;
-    padding-bottom: 12em;
-    background-repeat: no-repeat;
-    align-items: center;
-    background-color: #ebebeb;
-}
-
-.work_description01 h1{
-    font-size: 2em;
-    margin: 1em;
-    font-weight: 900;
-    width: 100%;
-    max-width: 350px;
- }
- 
- .work_description01 h2{
-     font-size: 1.5em;
-     margin: 1.2em;
-     font-weight: 500;
-     width: 100%;
-     max-width: 350px;
-  }
- 
- .work_description01 p{
-     font-size: 1em;
-     font-weight:400;
-     width: 100%;
-     max-width: 564px;
-     padding-bottom: 1em;
-     margin: 2em;
-  }
- 
-  .work_description01 a{
-     border: none;
-     color: #242424;
-     background-color: #c7c7c7;
-     font-family: Articulat CF,system-ui,sans-serif;
-     font-size: 16px;
-     font-weight: 600;  
-     max-width: 64px;
-     text-decoration: none;
-     padding: 14px 28px;
-     margin: 2em;
-     border-radius: 12px;
-  }
-  
-  /* part internal 2 - rodosafra */
-
-  .work_description02{
-    background-image: url(/images/rodosafra-locais.png);
-    background-position-x: 90%;
-    background-position-y: center;
-    background-size: 50%;
-    padding-bottom: 12em;
-    background-repeat: no-repeat;
-    align-items: center;
-    background-color: #ebebeb;
-}
-
-  .work_description02 h1{
-    font-size: 2em;
-    margin: 1em;
-    font-weight: 900;
-    width: 100%;
-    max-width: 350px;
- }
- 
- .work_description02 h2{
-     font-size: 1.5em;
-     margin: 1.2em;
-     font-weight: 500;
-     width: 100%;
-     max-width: 350px;
-  }
- 
- .work_description02 p{
-     font-size: 1em;
-     font-weight:400;
-     width: 100%;
-     max-width: 564px;
-     padding-bottom: 1em;
-     margin: 2em;
-  }
- 
-  .work_description02 a{
-     border: none;
-     color: #242424;
-     background-color: #c7c7c7;
-     font-family: Articulat CF,system-ui,sans-serif;
-     font-size: 16px;
-     font-weight: 600;  
-     max-width: 64px;
-     text-decoration: none;
-     padding: 14px 28px;
-     margin: 2em;
-     border-radius: 12px;
-  }
-
-  /* part internal 3 - tmov */
-
-  .work_description03{
-    background-image: url(/images/bg-img-tmov.png);
-    background-position-x: 90%;
-    background-position-y: center;
-    background-size: 50%;
-    padding-bottom: 12em;
-    background-repeat: no-repeat;
-    align-items: center;
-    background-color: #ebebeb;
-}
-
-  .work_description03 h1{
-    font-size: 2em;
-    margin: 1em;
-    font-weight: 900;
-    width: 100%;
-    max-width: 350px;
- }
- 
- .work_description03 h2{
-     font-size: 1.5em;
-     margin: 1.2em;
-     font-weight: 500;
-     width: 100%;
-     max-width: 350px;
-  }
- 
- .work_description03 p{
-     font-size: 1em;
-     font-weight:400;
-     width: 100%;
-     max-width: 564px;
-     padding-bottom: 1em;
-     margin: 2em;
-  }
- 
-  .work_description03 a{
-     border: none;
-     color: #242424;
-     background-color: #c7c7c7;
-     font-family: Articulat CF,system-ui,sans-serif;
-     font-size: 16px;
-     font-weight: 600;  
-     max-width: 64px;
-     text-decoration: none;
-     padding: 14px 28px;
-     margin: 2em;
-     border-radius: 12px;
-  }
-
-  /* part internal 4 - pagapay */
-
-.work_description04{
-    background-image: url(/images/paga-pay-screen.jpg);
-    background-position-x: 90%;
-    background-position-y: center;
-    background-size: 50%;
-    padding-bottom: 12em;
-    background-repeat: no-repeat;
-    align-items: center;
-    background-color: #ebebeb;
-}
-
-.work_description04 h1{
-   font-size: 2em;
-   margin: 1em;
-   font-weight: 900;
-   width: 100%;
-   max-width: 350px;
-}
-
-.work_description04 h2{
-    font-size: 1.5em;
-    margin: 1.2em;
-    font-weight: 500;
-    width: 100%;
-    max-width: 350px;
- }
-
-.work_description04 p{
-    font-size: 1em;
-    font-weight:400;
-    width: 100%;
-    max-width: 564px;
-    padding-bottom: 1em;
-    margin: 2em;
- }
-
- .work_description04 a{
-    border: none;
-    color: #242424;
-    background-color: #c7c7c7;
-    font-family: Articulat CF,system-ui,sans-serif;
-    font-size: 16px;
-    font-weight: 600;  
-    max-width: 64px;
-    text-decoration: none;
-    padding: 14px 28px;
-    margin: 2em;
-    border-radius: 12px;
- }
-
- /* part internal 5 - Kroton */
-
-.work_description05{
-    background-image: url(/images/kroton-ilustras.png);
-    background-position-x: 90%;
-    background-position-y: center;
-    background-size: 50%;
-    padding-bottom: 12em;
-    background-repeat: no-repeat;
-    align-items: center;
-    background-color: #ebebeb;
-}
-
-.work_description05 h1{
-   font-size: 2em;
-   margin: 1em;
-   font-weight: 900;
-   width: 100%;
-   max-width: 350px;
-}
-
-.work_description05 h2{
-    font-size: 1.5em;
-    margin: 1.2em;
-    font-weight: 500;
-    width: 100%;
-    max-width: 350px;
- }
-
-.work_description05 p{
-    font-size: 1em;
-    font-weight:400;
-    width: 100%;
-    max-width: 564px;
-    padding-bottom: 1em;
-    margin: 2em;
- }
-
- .work_description05 a{
-    border: none;
-    color: #242424;
-    background-color: #c7c7c7;
-    font-family: Articulat CF,system-ui,sans-serif;
-    font-size: 16px;
-    font-weight: 600;  
-    max-width: 64px;
-    text-decoration: none;
-    padding: 14px 28px;
-    margin: 2em;
-    border-radius: 12px;
- }
-
- .list_description_work{
-    padding-bottom: 4em;
- }
-
-
-.list_jobs{
-    justify-content: center;
-    width: 100%;
+.descriptionContainer{
     display: flex;
-    flex-wrap: wrap;
-    max-width: 1400px;
+    flex-direction: column;
+    justify-content: center;
     margin: 0;
     padding: 0;
-    gap: 2em;
+}
+
+.descriptionContainer img{
+    width: 100%;
+    padding-bottom: 2em;
+}
+
+.work_description{
+    margin: 2em;
+}
+
+.work_description p{
+   padding: 1.5em;
+   margin-bottom: 2em;
+   border-radius: 1em;
+   background-color: white;
+}
+
+.work_description a{
+    border: solid .15em rgb(0, 0, 0);
+    padding: .5em 1.5em;
+    text-decoration: none;
+    color: #000000;
+    border-radius: 3em;
+    font-weight: 400;
+}
+
+@media screen and (min-width: 48.75em) {
+    .descriptionContainer{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .descriptionContainer img{
+        width: 50%;
+        height: 50%;
+    }
+    
+    .work_description{
+        margin: 2em;
+    }
+    
+    .work_description p{
+       padding: 1.5em;
+       width: 30em;
+       margin-bottom: 2em;
+       border-radius: 1em;
+       background-color: white;
+    }
+    
+    .work_description a{
+        border: solid .15em rgb(0, 0, 0);
+        padding: .5em 1.5em;
+        text-decoration: none;
+        color: #000000;
+        border-radius: 3em;
+        font-weight: 400;
+    }
+}
+
+/* part description list - work developed */
+
+.list_description_work{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #f5f5f7;
+    margin: 0;
+    padding: 0;
 }
 
 .title_description{
     text-align: center;
-    padding: 6em 2em 2em;
+    padding: 2em;
 }
 
-.list_item{
-    flex-basis: 300px;
+.list_done_work{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.list_jobs{
+    margin: 2em;
+    padding: 0;
+}
+
+.list_done_work li{
+    background-color: #e7e7e7;
     list-style-type: none;
-    padding: 3em;
-    background-color: #eeeef3;
-    font-size: 1em;
-    font-weight: 600;
+    padding: 1.5em;
+    border-radius: .5em;
+    margin: 1em;
 }
 
-.list_description_work span{
-    font-size: .8em;
+.list_done_work span{
     font-weight: 300;
+}   
+
+@media screen and (min-width: 48.75em) {
+    .list_done_work ul{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .list_done_work li{
+        list-style-type: none;
+        padding: 1.5em;
+        background-color: #bebebe;
+        border-radius: .5em;
+        margin: 1em;
+        width: 20em;
+    }
+
+    .list_done_work span{
+        font-weight: 300;
+    }
 }
 
-.other_work01{
-    background-image: url(images/bg-other-farm.png);
-    background-repeat: no-repeat;
-    background-size: 55%;
-    background-position-x: 97%;
-    background-position-y: center;
-    padding-bottom: 4em;
-    padding-left: 2em;
-    align-items: center;
-    background-color: #dadada;
+/* part other details - details */
+
+.other_work{
+    margin: 2em;
 }
 
-.other_work01 h2{
-    font-size: 1.5em;
-    font-weight: 900;
-    padding-top: 1.5em;
-}
-.other_work01 h3{
-    font-size: 1em;
-    font-weight: 600;
-}
-
-.other_work01 a{
-    background-color: #c4c4c4;
-    border-radius: 12px;
-    color: #242424;
-    display: inline-block;
-    font-family: Articulat CF,system-ui,sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    padding: 14px 28px;
+.other_work a{
+    border: solid .15em rgb(0, 0, 0);
+    padding: .5em 1.5em;
     text-decoration: none;
+    color: #000000;
+    border-radius: 3em;
+    font-weight: 400;
 }
 
-/* part internal 02 other work */
-
-.other_work02{
-    background-image: url(images/rodosafra-oportunities\ tree.jpg);
-    background-repeat: no-repeat;
-    background-size: 60%;
-    background-position-x: 95%;
-    background-position-y: center;
-    padding-bottom: 4em;
-    padding-left: 2em;
-    align-items: center;
-    background-color: #dadada;
-}
-
-.other_work02 h2{
-    font-size: 1.5em;
-    font-weight: 900;
-    padding-top: 1.5em;
-}
-.other_work02 h3{
-    font-size: 1em;
-    font-weight: 600;
-}
-
-.other_work02 a{
-    background-color: #c4c4c4;
-    border-radius: 12px;
-    color: #242424;
-    display: inline-block;
-    font-family: Articulat CF,system-ui,sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    padding: 14px 28px;
-    text-decoration: none;
-}
-
-/* part internal 03 other work */
-
-.other_work03{
-    background-image: url(images/bg-other-tmov.png);
-    background-repeat: no-repeat;
-    background-size: 60%;
-    background-position-x: 97%;
-    background-position-y: center;
-    padding-bottom: 4em;
-    padding-left: 2em;
-    align-items: center;
-    background-color: #dadada;
-}
-
-.other_work03 h2{
-    font-size: 1.5em;
-    font-weight: 900;
-    padding-top: 1.5em;
-}
-.other_work03 h3{
-    font-size: 1em;
-    font-weight: 600;
-}
-
-.other_work03 a{
-    background-color: #c4c4c4;
-    border-radius: 12px;
-    color: #242424;
-    display: inline-block;
-    font-family: Articulat CF,system-ui,sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    padding: 14px 28px;
-    text-decoration: none;
-}
-
-/* part internal 04 other work */
-
-.other_work04{
-    background-image: url(images/paga-pay-flow01.png);
-    background-repeat: no-repeat;
-    background-size: 60%;
-    background-position-x: 102%;
-    background-position-y: center;
-    padding-bottom: 4em;
-    padding-left: 2em;
-    align-items: center;
-    background-color: #dadada;
-}
-
-.other_work04 h2{
-    font-size: 1.5em;
-    font-weight: 900;
-    padding-top: 1.5em;
-}
-.other_work04 h3{
-    font-size: 1em;
-    font-weight: 600;
-}
-
-.other_work04 a{
-    background-color: #c4c4c4;
-    border-radius: 12px;
-    color: #242424;
-    display: inline-block;
-    font-family: Articulat CF,system-ui,sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    padding: 14px 28px;
-    text-decoration: none;
-}
-
-/* part internal 05 other work */
-
-.other_work05{
-    background-image: url(images/Composição\ 4_1.mp4);
-    background-repeat: no-repeat;
-    background-size: 20%;
-    background-position-x: 90%;
-    background-position-y: center;
-    padding-bottom: 4em;
-    padding-left: 2em;
-    align-items: center;
-    background-color: #dadada;
-}
-
-.other_work05 h2{
-    font-size: 1.5em;
-    font-weight: 900;
-    padding-top: 1.5em;
-}
-.other_work05 h3{
-    font-size: 1em;
-    font-weight: 600;
-}
-
-.other_work05 a{
-    background-color: #c4c4c4;
-    border-radius: 12px;
-    color: #242424;
-    display: inline-block;
-    font-family: Articulat CF,system-ui,sans-serif;
-    font-size: 16px;
-    font-weight: 600;
-    padding: 14px 28px;
-    text-decoration: none;
-}
-
-.other_work_list{
-    justify-content: left;
+.other_img img{
     width: 100%;
-    max-width: 650px;
-    gap: 2em;
+    padding-bottom: 2em;
 }
 
-.title_other_work{
-    text-align: left;
-}
+@media screen and (min-width: 48.75em) {
+    .workContainer{
+        display: flex;
+        flex-direction: row;
+    }
 
+    .other_work_list{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .other_work_list ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+}
