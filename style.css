@@ -515,6 +515,10 @@ a{
     padding: 2em;
 }
 
+.descriptionContainer video{
+    width: 95%;
+}
+
 .work_description{
     margin: 2em;
 }
@@ -549,6 +553,11 @@ a{
     .descriptionContainer img{
         width: 50%;
         height: 50%;
+    }
+
+    .descriptionContainer video{
+        width: 25%;
+        padding: 2em;
     }
     
     .work_description{
