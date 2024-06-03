@@ -109,11 +109,12 @@ a{
 
 .heroBanner h1{
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 800;
 }
 
 .heroBanner img{
     width: 100%;
+    border-radius: 0 0 50px 50px;
 }
 
 @media screen and (min-width: 48.45em) {
@@ -132,7 +133,12 @@ a{
     .heroaBanner_tittle p{
         margin-bottom: 2em;
         max-width: 50em;
-    }   
+    }
+
+    .heroBanner img{
+        width: 100%;
+        border-radius: 0 50px 50px 0;
+    }
 }
 
 .martialAbsolute{
@@ -149,9 +155,9 @@ a{
 @media screen and (min-width: 48.75em) {
     .martialAbsolute{
         position: absolute;
-        left: 499px;
+        left: 790px;
         font-size: 1em;
-        transform: translateY(280px);
+        transform: translateY(530px);
         background: #e0e0e0;
         width: 100px;
         border-radius: 2em 0 2em 2em;
